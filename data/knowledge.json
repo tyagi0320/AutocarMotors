@@ -1,0 +1,51 @@
+{
+  "name": "AutoCare Motors",
+  "address": "18 Cedar Park Road, Bengaluru, Karnataka (fictional showroom)",
+  "timezone": "Asia/Kolkata",
+  "opening_hours": {
+    "days": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday"
+    ],
+    "hours": "10:00–18:00",
+    "closed": [
+      "Sunday"
+    ]
+  },
+  "visits": {
+    "duration_minutes": 45,
+    "hours": "11:00–17:45 on operating days",
+    "slots": [
+      "11:00",
+      "13:00",
+      "15:00",
+      "17:00"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Do you offer test drives?",
+      "answer": "Yes. Bring a valid driving licence and ask the showroom team about the demo vehicle during your visit."
+    },
+    {
+      "question": "Is there a fee to book a showroom visit?",
+      "answer": "No. Showroom visits are free."
+    },
+    {
+      "question": "Do you offer financing?",
+      "answer": "The dealership can discuss financing through partner lenders. Approval and terms depend on the lender."
+    },
+    {
+      "question": "Can I trade in my current car?",
+      "answer": "Yes. The team can appraise your vehicle at the showroom."
+    },
+    {
+      "question": "Are the prices on-road prices?",
+      "answer": "Prices are fictional ex-showroom prices in INR. Registration, insurance, and optional accessories are separate."
+    }
+  ]
+}
